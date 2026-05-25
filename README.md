@@ -1,5 +1,5 @@
 # Auto Title – Intelligent Title Generation from Text
-
+actions/reference/workflow-syntax-for-github-actions#permissions
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-orange.svg)
 ![spaCy](https://img.shields.io/badge/spaCy-3.7%2B-green.svg)
